@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Yash Patel  
 # 👨‍💻 Backend Developer
 
-Hi! I'm a backend developer passionate about building scalable, high-performance systems. I love designing clean architectures and solving real-world problems with efficient backend solutions.
+Hi! I'm a backend developer passionate about building scalable and high-performance APIs and backend applications. I love designing clean architectures and solving real-world problems with efficient backend solutions.
 
 ---
 
