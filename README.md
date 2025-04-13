@@ -79,7 +79,6 @@ Hi! I'm a backend developer passionate about building scalable and high-performa
 
 ## 📊 GitHub Stats & Streaks  
 - **Commits**: 150+ commits on personal and work projects  
-- **Streaks**: Active commit streak of 40 days  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashPatel-250702&show_icons=true&count_private=true&hide_title=true)  
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=YashPatel-250702&theme=radical)
