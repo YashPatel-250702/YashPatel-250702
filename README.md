@@ -21,8 +21,8 @@ Hi! I'm a backend developer passionate about building scalable and high-performa
 - **Frameworks**: Spring Boot, Deno  
 - **Databases**: Supabase, PostgreSQL, MySQL  
 - **Messaging**: RabbitMQ  
-- **Tools**: Docker, Judge0, JMeter, GitHub Actions, Brevo, Zoho CRM  
-- **Security**: JWT, input sanitization, access control
+- **Tools**:JMeter, GitHub Actions, Brevo
+- **Security**: JWT, access control
 
 ---
 
