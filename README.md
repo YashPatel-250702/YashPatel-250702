@@ -57,7 +57,7 @@ Hi! I'm a backend developer passionate about building scalable and high-performa
 
 ---
 
-### 🔹 Food Delivery Backend (In Progress)  
+### 🔹 Food Delivery Backend 
 > Backend system for a food delivery app with order and menu management.
 
 - **Tech**: Deno + TypeScript  
