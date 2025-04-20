@@ -89,6 +89,3 @@ Hi! I'm a backend developer passionate about building scalable and high-performa
 - Email: yash.patel@tekworks.in  
 - LinkedIn: [Yash Patel](https://www.linkedin.com/in/yash-patel-479250206/)
 
----
-
-> Clean code. Solid architecture. Scalable backend. 🚀
