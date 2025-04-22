@@ -18,7 +18,7 @@ Hi! I'm a backend developer passionate about building scalable and high-performa
 ## 🚀 Tech Stack
 
 - **Languages**: Java, TypeScript  
-- **Frameworks**: Spring Boot, Deno  
+- **Frameworks**: Spring Boot, Deno  ,nextJS, ExpressJs
 - **Databases**: Supabase, PostgreSQL, MySQL  
 - **Messaging**: RabbitMQ  
 - **Tools**:JMeter, GitHub Actions, Brevo
