@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Yash Patel  
-# 👨‍💻 Backend Developer
+## 🧑‍💻 Full Stack Developer
 
-Hi! I'm a backend developer passionate about building scalable and high-performance APIs and backend applications. I love designing clean architectures and solving real-world problems with efficient backend solutions.
+Hi! I'm a full stack developer passionate about building scalable, high-performance applications from backend logic to frontend interfaces. I love designing clean architectures and solving real-world problems with efficient full stack solutions.
 
 ---
 
 ## 🌟 About Me  
 - 🔭 Currently working on:
   - **bitLabs** – A job portal connecting recruiters with applicants  
-  - **Food Delivery App (Backend)** – Built using TypeScript and Deno  
+  - **LMS Application (Full Stack)** – A learning platform to manage courses, videos, and student progress  
 
 - ✅ Completed:
   - **Microservices Architecture Project** – Featuring secure service-to-service communication and modular design  
@@ -17,68 +17,80 @@ Hi! I'm a backend developer passionate about building scalable and high-performa
 
 ## 🚀 Tech Stack
 
-- **Languages**: Java, TypeScript  
-- **Frameworks**: Spring Boot, Deno  ,nextJS, ExpressJs
+- **Languages**: Java, TypeScript, JavaScript  
+- **Frameworks/Libraries**: Spring Boot, Deno, Next.js, React.js, Express.js  
+- **Styling**: Tailwind CSS  
 - **Databases**: Supabase, PostgreSQL, MySQL  
 - **Messaging**: RabbitMQ  
-- **Tools**:JMeter, GitHub Actions, Brevo
-- **Security**: JWT, access control
+- **Tools**: JMeter, GitHub Actions, Brevo  
+- **Security**: JWT, Access Control  
 
 ---
 
 ## 💼 Featured Projects
 
-### 🔹 bitLabs - Job Portal Backend  
-> A full-featured backend system for a job portal that connects recruiters and applicants.
+### 🔹 bitLabs – Job Portal Backend  
+> A backend system for a job portal that connects recruiters and applicants.
 
 - **Backend**: Spring Boot  
 - **Database**: Supabase  
 - **Tools**: SonarQube, JMeter, Docker  
 
 **Key Features:**
-- User authentication and dashboard  
-- Job recommendations based on user profile  
-- Apply to jobs, save jobs, build resumes  
-- Resume builder and job tracking  
-- Skill badges  
+- User registration, login, and role-based access  
+- Job recommendations based on profile and preferences  
+- Resume builder and job tracking system  
+- Skill badges and analytics dashboard  
+- Email notifications with Brevo
 
 🔗 [GitHub Repository](https://github.com/YashPatel-250702/bitLabs-Application-BE)  
 
 ---
 
-### 🔹 Microservices Architecture with JWT Security  
-> A secure backend system using Spring Boot microservices with JWT authentication.
+### 🔹 LMS – Learning Management System (Full Stack)  
+> A full-stack system to upload and manage online courses, with real-time student tracking.
 
-- **Auth Service**: Manages registration, login, and token generation  
-- **API Gateway**: Secures and routes traffic to services  
-- **Focus**: Scalability, modularity, and clean code principles  
+- **Frontend**: React.js + Tailwind CSS  
+- **Backend**: Spring Boot  
+- **Database**: Supabase  
+- **Security**: JWT Authentication, Role-based access  
+
+**Key Features:**
+- Instructor & student roles  
+- Course upload, video lessons, and assessments  
+- Student progress tracking and reporting  
+- Clean, responsive UI built with Tailwind  
+
+🔗 [GitHub Repository](https://github.com/YashPatel-250702/LMS-Application)  
+
+---
+
+### 🔹 Microservices Architecture with JWT Security  
+> A modular backend project built with Spring Boot microservices and JWT authentication.
+
+- **Auth Service**: Handles registration, login, and token generation  
+- **API Gateway**: Protects and routes traffic  
+- **Other Services**: User Service, Job Service, etc.  
+
+**Highlights:**
+- Scalable architecture with secure inter-service communication  
+- Centralized configuration and monitoring  
+- Integrated with Docker and GitHub Actions for CI/CD  
 
 🔗 [GitHub Repository](https://github.com/YashPatel-250702/Microservice-Architecture-Projects)  
 
 ---
 
-### 🔹 Food Delivery Backend 
-> Backend system for a food delivery app with order and menu management.
-
-- **Tech**: Deno + TypeScript  
-- **Auth**: JWT-based  
-- **Modules**: Cart, role-based access, authentication  
-
-🔗 [GitHub Repository](https://github.com/YashPatel-250702/Food-Delivery-Application)  
-
----
-
 ## 📈 Performance & Testing
 
-- **JMeter**: Load testing with 1,000+ concurrent users  
+- **JMeter**: Load tested with 1,000+ concurrent users  
 - **Postman**: Manual & automated API testing  
-- **Quality**: SonarQube, Codium AI  
-- **Security**: Follows best practices for token validation, access control, and data sanitization  
+- **Quality Tools**: SonarQube, Codium AI  
+- **Security Practices**: Token validation, access control, data sanitization  
 
 ---
 
 ## 📊 GitHub Stats & Streaks  
-- **Commits**: 150+ commits on personal and work projects  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YashPatel-250702&show_icons=true&count_private=true&hide_title=true)  
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=YashPatel-250702&theme=radical)
@@ -86,6 +98,5 @@ Hi! I'm a backend developer passionate about building scalable and high-performa
 ---
 
 ## 📫 Contact  
-- Email: yash.patel@tekworks.in  
-- LinkedIn: [Yash Patel](https://www.linkedin.com/in/yash-patel-479250206/)
-
+- 📧 Email: yash.patel@tekworks.in  
+- 💼 LinkedIn: [Yash Patel](https://www.linkedin.com/in/yash-patel-479250206/)
