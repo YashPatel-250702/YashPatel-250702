@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Yash Patel  
 ## 🧑‍💻 Full Stack Developer
 
-Hi! I'm a full stack developer passionate about building scalable, high-performance applications from backend logic to frontend interfaces. I love designing clean architectures and solving real-world problems with efficient full stack solutions.
+Hi! I'm a full stack developer passionate about building scalable, high-performance applications — from robust backend systems to responsive frontend interfaces. I love clean architectures and solving real-world problems with efficient code.
 
 ---
 
 ## 🌟 About Me  
 - 🔭 Currently working on:
   - **bitLabs** – A job portal connecting recruiters with applicants  
-  - **LMS Application (Full Stack)** – A learning platform to manage courses, videos, and student progress  
+  - **LMS Application (Full Stack)** – A full-fledged learning platform using Next.js for both frontend and backend  
 
 - ✅ Completed:
   - **Microservices Architecture Project** – Featuring secure service-to-service communication and modular design  
@@ -18,7 +18,7 @@ Hi! I'm a full stack developer passionate about building scalable, high-performa
 ## 🚀 Tech Stack
 
 - **Languages**: Java, TypeScript, JavaScript  
-- **Frameworks/Libraries**: Spring Boot, Deno, Next.js, React.js, Express.js  
+- **Frameworks/Libraries**: Next.js (Frontend + Backend), Spring Boot, Deno, Express.js  
 - **Styling**: Tailwind CSS  
 - **Databases**: Supabase, PostgreSQL, MySQL  
 - **Messaging**: RabbitMQ  
@@ -37,45 +37,45 @@ Hi! I'm a full stack developer passionate about building scalable, high-performa
 - **Tools**: SonarQube, JMeter, Docker  
 
 **Key Features:**
-- User registration, login, and role-based access  
-- Job recommendations based on profile and preferences  
-- Resume builder and job tracking system  
-- Skill badges and analytics dashboard  
+- Secure user authentication and dashboard  
+- Job recommendations, resume builder, and job tracking  
+- Skill badges & recruiter-applicant communication  
 - Email notifications with Brevo
 
 🔗 [GitHub Repository](https://github.com/YashPatel-250702/bitLabs-Application-BE)  
 
 ---
 
-### 🔹 LMS – Learning Management System (Full Stack)  
-> A full-stack system to upload and manage online courses, with real-time student tracking.
+### 🔹 LMS – Learning Management System (Full Stack in Next.js)  
+> A complete learning platform built entirely using Next.js — API routes for backend and frontend pages combined.
 
-- **Frontend**: React.js + Tailwind CSS  
-- **Backend**: Spring Boot  
+- **Framework**: Full-stack Next.js (App Router)  
 - **Database**: Supabase  
-- **Security**: JWT Authentication, Role-based access  
+- **Styling**: Tailwind CSS  
+- **Security**: JWT authentication, role-based access control  
 
 **Key Features:**
-- Instructor & student roles  
-- Course upload, video lessons, and assessments  
-- Student progress tracking and reporting  
-- Clean, responsive UI built with Tailwind  
+- Admin and Student roles  
+- Course and video content management  
+- Secure backend APIs using Next.js API routes  
+- Progress tracking, dashboards, and analytics  
+- Modern, responsive UI with Tailwind CSS  
 
-🔗 [GitHub Repository](https://github.com/YashPatel-250702/LMS-Application)  
+🔗 [GitHub Repository](https://github.com/eedekarunakar/LMS)  
 
 ---
 
 ### 🔹 Microservices Architecture with JWT Security  
-> A modular backend project built with Spring Boot microservices and JWT authentication.
+> A modular backend system using Spring Boot microservices with JWT-based authentication.
 
-- **Auth Service**: Handles registration, login, and token generation  
-- **API Gateway**: Protects and routes traffic  
-- **Other Services**: User Service, Job Service, etc.  
+- **Auth Service**: Handles registration, login, and JWT token generation  
+- **API Gateway**: Manages secure routing between services  
+- **Modules**: User Service, Job Service, and more  
 
 **Highlights:**
-- Scalable architecture with secure inter-service communication  
-- Centralized configuration and monitoring  
-- Integrated with Docker and GitHub Actions for CI/CD  
+- Scalable, secure microservices communication  
+- Dockerized for container-based deployment  
+- Integrated CI/CD using GitHub Actions  
 
 🔗 [GitHub Repository](https://github.com/YashPatel-250702/Microservice-Architecture-Projects)  
 
@@ -83,10 +83,10 @@ Hi! I'm a full stack developer passionate about building scalable, high-performa
 
 ## 📈 Performance & Testing
 
-- **JMeter**: Load tested with 1,000+ concurrent users  
-- **Postman**: Manual & automated API testing  
-- **Quality Tools**: SonarQube, Codium AI  
-- **Security Practices**: Token validation, access control, data sanitization  
+- **JMeter**: Load tested for 1,000+ concurrent users  
+- **Postman**: Manual and automated API tests  
+- **Code Quality**: SonarQube, Codium AI  
+- **Security Best Practices**: Token validation, access control, data sanitization  
 
 ---
 
