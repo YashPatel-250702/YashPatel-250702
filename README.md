@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Yash Patel  
-## 🧑‍💻 Full Stack Developer
+#  Hi, I'm Yash Patel  
+##🧑‍💻 Full Stack Developer
 
 Hi! I'm a full stack developer passionate about building scalable, high-performance applications — from robust backend systems to responsive frontend interfaces. I love clean architectures and solving real-world problems with efficient code.
 
 ---
 
-## 🌟 About Me  
-- 🔭 Currently working on:
+##  About Me  
+-  Currently working on:
   - **bitLabs** – A job portal connecting recruiters with applicants  
   - **LMS Application (Full Stack)** – A full-fledged learning platform using Next.js for both frontend and backend  
 
-- ✅ Completed:
+-  Completed:
   - **Microservices Architecture Project** – Featuring secure service-to-service communication and modular design  
 
 ---
@@ -18,7 +18,7 @@ Hi! I'm a full stack developer passionate about building scalable, high-performa
 ## 🚀 Tech Stack
 
 - **Languages**: Java, TypeScript, JavaScript  
-- **Frameworks/Libraries**: Next.js (Frontend + Backend), Spring Boot, Deno, Express.js  
+- **Frameworks/Libraries**: Spring Boot, Next.js (Frontend + Backend), React Js, Deno, Express.js  
 - **Styling**: Tailwind CSS  
 - **Databases**: Supabase, PostgreSQL, MySQL  
 - **Messaging**: RabbitMQ  
