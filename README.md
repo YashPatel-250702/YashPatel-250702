@@ -52,7 +52,7 @@ Hi! I'm a full stack developer passionate about building scalable, high-performa
 - **Framework**: Full-stack Next.js (App Router)  
 - **Database**: Supabase  
 - **Styling**: Tailwind CSS  
-- **Security**: JWT authentication, role-based access control  
+- **Security**: JWT authentication
 
 **Key Features:**
 - Admin and Student roles  
