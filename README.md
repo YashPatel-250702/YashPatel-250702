@@ -74,8 +74,7 @@ Hi! I'm a full stack developer passionate about building scalable, high-performa
 
 **Highlights:**
 - Scalable, secure microservices communication  
-- Dockerized for container-based deployment  
-- Integrated CI/CD using GitHub Actions  
+- Dockerized for container-based deployment   
 
 🔗 [GitHub Repository](https://github.com/YashPatel-250702/Microservice-Architecture-Projects)  
 
@@ -86,7 +85,6 @@ Hi! I'm a full stack developer passionate about building scalable, high-performa
 - **JMeter**: Load tested for 1,000+ concurrent users  
 - **Postman**: Manual and automated API tests  
 - **Code Quality**: SonarQube, Codium AI  
-- **Security Best Practices**: Token validation, access control, data sanitization  
 
 ---
 
